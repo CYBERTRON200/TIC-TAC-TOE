@@ -9,6 +9,7 @@ Here's the code:-
 char board[3][3];
  
 // Function to initialize the game board
+
 void initializeBoard(void)
 {
     for (int i = 0; i < 3; i++)
